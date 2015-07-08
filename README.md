@@ -1,1 +1,1 @@
-# Personal Blog on Data Science
+Personal Blog on Data Science
